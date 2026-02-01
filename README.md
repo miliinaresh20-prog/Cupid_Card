@@ -8,13 +8,13 @@ A charming pixel art Valentine’s Day card featuring a cute envelope animation 
 ## About The Project
 
 This is a whimsical retro-inspired pixel art card that opens an envelope on click to reveal a sweet message:  
-**"Will you go out with me on Valentine’s Day?"**  
+**"Will you go out with me on Valentine’s Day, Nivaan Sinha?"**  
 
 Features include:  
 - A pixel-style envelope that opens smoothly with animation  
-- Two options: **Yes** and **No**  
-- The **No** button playfully dodges the cursor as you try to click it  
-- Clicking **Yes** triggers a cheerful confetti celebration and reveals details of the date, time, and venue
+- Two options: **Yessssss** and **Noooo**  
+- The **Noooo** button playfully dodges the cursor as you try to click it  
+- Clicking **Yessssss** triggers a cheerful confetti celebration and reveals details of the date, time, and venue
 
 Perfect for surprising a special someone or showcasing pixel art animation skills!
 
